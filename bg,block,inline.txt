@@ -1,0 +1,40 @@
+https://blog.naver.com/jj601400/222056111224
+
+
+css_block_inline.html
+
+display:block;
+
+display:inline;
+
+display:inline-block;
+
+display:none;
+
+display:list-item;
+
+display:table; 자식요소에 영향
+------------
+
+overflow:hidden;
+
+overflow:scroll;
+
+overflow:auto;
+
+visibility:hidden
+공간은 차지하면서 보이지 않음
+(자리는 있는데 보이지 않는)
+display:none;
+공간을 차지하지 않음
+(원래 없었던 것처럼)
+
+background-repeat:repeat-y;
+background-repeat:repeat-x;
+background-repeat:no-repeat;
+background-repeat:repeat;
+
+background-position:left top; 가로 세로
+
+
+a태그는 inline요소
